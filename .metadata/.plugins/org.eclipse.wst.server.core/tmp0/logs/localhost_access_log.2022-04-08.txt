@@ -1,0 +1,6 @@
+127.0.0.1 - - [08/Apr/2022:12:21:10 -0300] "GET / HTTP/1.1" 404 763
+0:0:0:0:0:0:0:1 - - [08/Apr/2022:12:21:11 -0300] "GET /ProjetoHospital/WEB-INF/Index.jsp HTTP/1.1" 404 694
+0:0:0:0:0:0:0:1 - - [08/Apr/2022:12:22:37 -0300] "GET /ProjetoHospital/PacienteController HTTP/1.1" 404 801
+0:0:0:0:0:0:0:1 - - [08/Apr/2022:12:22:42 -0300] "GET /ProjetoHospital/PacienteController HTTP/1.1" 404 801
+0:0:0:0:0:0:0:1 - - [08/Apr/2022:12:23:10 -0300] "GET /ProjetoHospital/PacienteController HTTP/1.1" 404 801
+0:0:0:0:0:0:0:1 - - [08/Apr/2022:12:23:53 -0300] "GET /ProjetoHospital/WEB-INF/Formulario.jsp HTTP/1.1" 404 694
